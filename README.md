@@ -4,10 +4,6 @@
 ![Shell Badge](https://img.shields.io/badge/Language-Shell-blue)
 ![Status Badge](https://img.shields.io/badge/Status-Completed-success)
 
-## Project Details
-
-For full project requirements, see the [Subject File](./subject.md).
-
 ## What I Learned
 
 Through this foundational shell project at 42 School, I developed essential system administration and command-line skills:
